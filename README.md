@@ -26,7 +26,7 @@ The result is a lightweight, intelligent recall system powered by partner tools
 - Observability Gaps: Browser Use's abstraction layer hides actual LLM calls, forcing token count estimation for Galileo logging instead of exact metrics.
 - Chrome Remote Debugging: Handling multiple browser instances across ports while managing connection lifecycles and avoiding memory leaks from orphaned browser contexts.
 
-## Accomplishments that we're proud of
+## Accomplishments that I'm proud of
 
 - Transformed Tab Chaos into Clarity: Created an experience where users go from "I have 100 tabs and I'm overwhelmed" to "Here's exactly what I'm researching, what's duplicate, and what matters" - in under 30 seconds with natural language queries.
 
